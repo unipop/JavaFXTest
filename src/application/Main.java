@@ -28,5 +28,6 @@ public class Main extends Application {
 	@Override
 	public void stop(){
 		System.out.println("アプリケーションを終了します...");
+		System.out.println("バグ修正１");
 	}
 }
